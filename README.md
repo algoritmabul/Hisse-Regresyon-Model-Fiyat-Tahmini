@@ -3,13 +3,12 @@
 Tek bir hisse senedi için **8 regresyon modeli + PyTorch LSTM** ile çok adımlı fiyat tahmini üreten, grafik ve CSV çıktısı veren bir Python projesi.
 
 > 🧬 Bu proje, **InflationForecast** enflasyon tahmin projesindeki **model kadrosunun** hisse senedi piyasasına uyarlamasıdır. Regresyon modellerinin hiperparametreleri enflasyon projesiyle **birebir aynıdır**; LSTM ise aynı mimarinin **PyTorch** karşılığıdır.
+
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.x-EE4C2C?logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.x-F7931E?logo=scikitlearn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-3.x-189FDD)
 ![CUDA](https://img.shields.io/badge/CUDA-opsiyonel-76B900?logo=nvidia&logoColor=white)
-
----
 
 ---
 
